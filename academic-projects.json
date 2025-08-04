@@ -1,0 +1,27 @@
+[
+    {
+      "title": "AI-Based Chatbot for College Enquiry",
+      "tech_stack": ["Python", "TensorFlow", "NLTK", "Flask"],
+      "description": "Developed a chatbot to handle common student queries related to admissions, course offerings, and campus facilities.",
+      "outcome": "Successfully automated over 75% of FAQ responses; reduced workload on college admin desk."
+    },
+    {
+      "title": "Online Voting System using Blockchain",
+      "tech_stack": ["Node.js", "Ethereum", "Solidity", "Web3.js"],
+      "description": "Built a secure and transparent online voting platform based on blockchain technology to ensure vote integrity.",
+      "outcome": "Demonstrated tamper-proof transactions; received appreciation during university tech fair."
+    },
+    {
+      "title": "Virtual Lab for Physics Experiments",
+      "tech_stack": ["JavaScript", "Three.js", "HTML5", "CSS3"],
+      "description": "Created a web-based 3D interactive physics lab for students to simulate and visualize experiments remotely.",
+      "outcome": "Used by over 200 students; improved conceptual understanding and accessibility."
+    },
+    {
+      "title": "Smart Waste Management System",
+      "tech_stack": ["Arduino", "C++", "IoT Sensors", "Firebase"],
+      "description": "Designed a prototype system for real-time waste bin monitoring and alerting the municipality for pickups.",
+      "outcome": "Tested in a campus block; optimized waste collection frequency by 40%."
+    }
+]
+  

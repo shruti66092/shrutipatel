@@ -1,0 +1,24 @@
+{
+    "permanent_address": {
+      "address_line": "12, Gokul Nagar Society",
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "country": "India",
+      "pincode": "360001"
+    },
+    "current_address": {
+      "address_line": "B-402, Green Valley Apartments",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "pincode": "411014"
+    },
+    "correspondence_address": {
+      "address_line": "B-402, Green Valley Apartments",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "pincode": "411014"
+    }
+}
+  

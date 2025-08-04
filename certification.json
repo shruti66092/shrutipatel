@@ -1,0 +1,33 @@
+[
+    {
+      "course_name": "ASP.NET Core Web Development",
+      "platform": "Microsoft Learn",
+      "date": "2023-04-12",
+      "credential_url": "https://learn.microsoft.com/certificates/aspnet-core-123456"
+    },
+    {
+      "course_name": "Flutter App Development",
+      "platform": "Udemy",
+      "date": "2023-06-25",
+      "credential_url": "https://udemy.com/certificate/flutter-dev-789xyz"
+    },
+    {
+      "course_name": "React - The Complete Guide",
+      "platform": "Coursera",
+      "date": "2023-09-15",
+      "credential_url": "https://coursera.org/verify/react-course-456abc"
+    },
+    {
+      "course_name": "Python for Everybody",
+      "platform": "edX",
+      "date": "2024-01-30",
+      "credential_url": "https://edx.org/certificate/python-course-abc321"
+    },
+    {
+      "course_name": "AWS Certified Cloud Practitioner",
+      "platform": "Amazon Web Services",
+      "date": "2024-05-10",
+      "credential_url": "https://aws.amazon.com/certification/certified-cloud-practitioner"
+    }
+]
+  

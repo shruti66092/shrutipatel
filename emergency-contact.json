@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Rina Patel",
+      "relation": "Mother",
+      "phone": "+91-9876543210",
+      "address": "12, Gokul Nagar Society, Rajkot, Gujarat, 360001, India"
+    },
+    {
+      "name": "Mehul Patel",
+      "relation": "Father",
+      "phone": "+91-9823123456",
+      "address": "12, Gokul Nagar Society, Rajkot, Gujarat, 360001, India"
+    },
+    {
+      "name": "Priya Shah",
+      "relation": "Friend",
+      "phone": "+91-9988776655",
+      "address": "C-305, Sunflower Apartments, Vastrapur, Ahmedabad, Gujarat, 380015, India"
+    }
+]
+  
